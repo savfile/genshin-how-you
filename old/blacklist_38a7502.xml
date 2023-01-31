@@ -111,7 +111,6 @@
 <item enabled="true">t=琴</item>
 <item enabled="true">t=丘丘人</item>
 <item enabled="true">t=群玉阁</item>
-<item enabled="true">t=让我试试刀吧</item>
 <item enabled="true">t=塞西利亚花</item>
 <item enabled="true">t=赛诺</item>
 <item enabled="true">t=砂糖</item>
@@ -138,9 +137,12 @@
 <item enabled="true">t=万叶</item>
 <item enabled="true">t=往生堂</item>
 <item enabled="true">t=温迪</item>
-<item enabled="true">t=无想</item>
+<item enabled="true">t=无想刀狭间</item>
+<item enabled="true">t=无想的一刀</item>
+<item enabled="true">t=无想刃间峡</item>
+<item enabled="true">t=无想刃峡间</item>
+<item enabled="true">t=无想刃狭间</item>
 <item enabled="true">t=五郎</item>
-<item enabled="true">t=五香刃狭间</item>
 <item enabled="true">t=西风骑士团</item>
 <item enabled="true">t=香菱</item>
 <item enabled="true">t=向着星辰与深渊</item>
