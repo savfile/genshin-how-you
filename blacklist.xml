@@ -3,6 +3,7 @@
 <item enabled="true">t=genshin</item>
 <item enabled="true">t=mhy</item>
 <item enabled="true">t=miHoYo</item>
+<item enabled="true">t=op</item>
 <item enabled="true">t=阿贝多</item>
 <item enabled="true">t=阿如村</item>
 <item enabled="true">t=埃洛伊</item>
@@ -71,6 +72,7 @@
 <item enabled="true">t=可莉</item>
 <item enabled="true">t=刻晴</item>
 <item enabled="true">t=空</item>
+<item enabled="true">t=叩</item>
 <item enabled="true">t=狂风之核</item>
 <item enabled="true">t=莱依拉</item>
 <item enabled="true">t=狼的末路</item>
@@ -165,6 +167,7 @@
 <item enabled="true">t=渊下宫</item>
 <item enabled="true">t=元素爆发</item>
 <item enabled="true">t=元素战技</item>
+<item enabled="true">t=原p</item>
 <item enabled="true">t=原激化</item>
 <item enabled="true">t=原来你也玩原神</item>
 <item enabled="true">t=原神</item>
