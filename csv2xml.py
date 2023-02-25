@@ -2,41 +2,41 @@
 # -*- coding:utf-8 -*-
 import csv
 
-inputFile = 'blacklist.csv'
-outputFile = 'blacklist.xml'
+INPUT_FILE = 'blacklist.csv'
+OUTPUT_FILE = 'blacklist.xml'
 
-WordLine = 0
-RegExLine = 1
-DisenabledLine = 2
+WORD_LIST = 0
+REGEX_COLUMN = 1
+DISENABLED_COLUMN = 2
 
 
 def GenerateXml(text):
-    with open(outputFile, 'a', encoding='utf-8') as output:
+    with open(OUTPUT_FILE, 'a', encoding='utf-8') as output:
 
-        if x[RegExLine] == 'TRUE' and x[DisenabledLine] == 'TRUE':
-            output.write('\t<item enabled="false">r=' + x[WordLine] +
+        if x[REGEX_COLUMN] == 'TRUE' and x[DISENABLED_COLUMN] == 'TRUE':
+            output.write('\t<item enabled="false">r=' + x[WORD_LIST] +
                          '</item>\n')
-        elif x[RegExLine] == '' and x[DisenabledLine] == 'TRUE':
-            output.write('\t<item enabled="false">t=' + x[WordLine] +
+        elif x[REGEX_COLUMN] == '' and x[DISENABLED_COLUMN] == 'TRUE':
+            output.write('\t<item enabled="false">t=' + x[WORD_LIST] +
                          '</item>\n')
-        elif x[RegExLine] == 'TRUE' and x[DisenabledLine] == '':
-            output.write('\t<item enabled="true">r=' + x[WordLine] +
+        elif x[REGEX_COLUMN] == 'TRUE' and x[DISENABLED_COLUMN] == '':
+            output.write('\t<item enabled="true">r=' + x[WORD_LIST] +
                          '</item>\n')
-        elif x[RegExLine] == '' and x[DisenabledLine] == '':
-            output.write('\t<item enabled="true">t=' + x[WordLine] +
+        elif x[REGEX_COLUMN] == '' and x[DISENABLED_COLUMN] == '':
+            output.write('\t<item enabled="true">t=' + x[WORD_LIST] +
                          '</item>\n')
         else:
             pass
 
 
-with open(outputFile, 'w', encoding='utf-8') as fx:
+with open(OUTPUT_FILE, 'w', encoding='utf-8') as fx:
     fx.write("<filters>\n")
 
-with open(inputFile, newline='', encoding='utf-8-sig') as input:
+with open(INPUT_FILE, newline='', encoding='utf-8-sig') as input:
     spamreader = csv.reader(input, delimiter=',')
     for x in spamreader:
-        GenerateXml(x[WordLine])
+        GenerateXml(x[WORD_LIST])
 
-with open(outputFile, 'a', encoding='utf-8') as fx:
+with open(OUTPUT_FILE, 'a', encoding='utf-8') as fx:
     fx.write('</filters>\n')
     fx.close()
