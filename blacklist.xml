@@ -6,13 +6,16 @@
 	<item enabled="true">t=mhy</item>
 	<item enabled="true">t=miHoYo</item>
 	<item enabled="true">t=mihqyq</item>
+	<item enabled="true">t=nor西妲</item>
 	<item enabled="false">t=op</item>
 	<item enabled="false">t=wetest</item>
 	<item enabled="true">t=阿贝多</item>
 	<item enabled="true">t=阿如村</item>
 	<item enabled="true">t=埃洛伊</item>
 	<item enabled="true">t=艾尔海森</item>
+	<item enabled="true">t=艾琳</item>
 	<item enabled="true">t=安柏</item>
+	<item enabled="true">t=安娜</item>
 	<item enabled="true">t=安如磐石</item>
 	<item enabled="true">t=暗夜之鸦</item>
 	<item enabled="true">t=奥兹</item>
@@ -23,6 +26,7 @@
 	<item enabled="true">t=白垩之子</item>
 	<item enabled="false">t=白毛</item>
 	<item enabled="true">t=白术</item>
+	<item enabled="true">t=白铁大剑</item>
 	<item enabled="true">t=百岁珊</item>
 	<item enabled="true">t=班尼冒险团</item>
 	<item enabled="true">t=班尼特</item>
@@ -31,7 +35,7 @@
 	<item enabled="true">t=北风狼</item>
 	<item enabled="true">t=奔狼领</item>
 	<item enabled="true">t=崩崩小圆帽</item>
-	<item enabled="false">t=崩坏</item>
+	<item enabled="true">t=崩坏</item>
 	<item enabled="true">t=冰雾花</item>
 	<item enabled="true">t=不卜庐</item>
 	<item enabled="true">t=草神</item>
@@ -44,6 +48,8 @@
 	<item enabled="true">t=尘歌壶</item>
 	<item enabled="true">t=尘世闲游</item>
 	<item enabled="true">t=诚哥壶</item>
+	<item enabled="true">t=吃虎鱼刀</item>
+	<item enabled="true">t=螭骨剑</item>
 	<item enabled="true">t=迟滞之水</item>
 	<item enabled="true">t=赤王</item>
 	<item enabled="true">t=炽光猎兽</item>
@@ -62,6 +68,7 @@
 	<item enabled="true">t=道成林</item>
 	<item enabled="true">t=稻妻</item>
 	<item enabled="true">t=德丽莎</item>
+	<item enabled="true">t=地面的生灵</item>
 	<item enabled="true">t=迪奥娜</item>
 	<item enabled="true">t=迪卢克</item>
 	<item enabled="true">t=迪希雅</item>
@@ -97,6 +104,8 @@
 	<item enabled="true">t=甘雨</item>
 	<item enabled="false">t=感电</item>
 	<item enabled="true">t=干点正事</item>
+	<item enabled="true">t=高天之歌</item>
+	<item enabled="true">t=给我大龙虾</item>
 	<item enabled="true">t=给我倒下</item>
 	<item enabled="true">t=工资回收</item>
 	<item enabled="true">t=孤云阁</item>
@@ -104,6 +113,7 @@
 	<item enabled="true">t=固若金汤</item>
 	<item enabled="true">t=归终机</item>
 	<item enabled="true">t=海灯节</item>
+	<item enabled="true">t=海乱鬼</item>
 	<item enabled="true">t=海祇岛</item>
 	<item enabled="true">t=寒天之钉</item>
 	<item enabled="true">t=黑暗降临</item>
@@ -141,9 +151,11 @@
 	<item enabled="true">t=可莉</item>
 	<item enabled="true">t=刻晴</item>
 	<item enabled="false">t=空</item>
+	<item enabled="true">t=空月祝福</item>
 	<item enabled="false">t=叩</item>
 	<item enabled="true">t=狂风之核</item>
 	<item enabled="false">t=扩散</item>
+	<item enabled="true">t=来我家做客吧</item>
 	<item enabled="true">t=莱依拉</item>
 	<item enabled="true">t=兰那罗</item>
 	<item enabled="true">t=狼的末路</item>
@@ -163,6 +175,7 @@
 	<item enabled="true">t=雷主</item>
 	<item enabled="true">t=梨多梵谛学院</item>
 	<item enabled="true">t=璃月</item>
+	<item enabled="true">t=黎明神剑</item>
 	<item enabled="true">t=立本</item>
 	<item enabled="true">t=丽莎</item>
 	<item enabled="true">t=烈焰花</item>
@@ -186,12 +199,14 @@
 	<item enabled="true">t=猫尾特调</item>
 	<item enabled="true">t=蒙德</item>
 	<item enabled="true">t=米哈游</item>
+	<item enabled="true">t=米忽悠</item>
 	<item enabled="true">t=米卡</item>
 	<item enabled="true">t=命之座</item>
 	<item enabled="true">t=魔王武装</item>
 	<item enabled="false">t=陌生人</item>
 	<item enabled="true">t=莫娜</item>
 	<item enabled="true">t=幕府军</item>
+	<item enabled="true">t=纳nor达</item>
 	<item enabled="true">t=纳塔</item>
 	<item enabled="true">t=纳西妲</item>
 	<item enabled="true">t=奶沟鞘</item>
@@ -232,7 +247,9 @@
 	<item enabled="true">t=赛诺</item>
 	<item enabled="true">t=三川花祭</item>
 	<item enabled="true">r=三二一.*一二三.*啊啊</item>
+	<item enabled="true">t=散兵</item>
 	<item enabled="true">t=散奉先</item>
+	<item enabled="true">t=森林会记住一切</item>
 	<item enabled="true">t=森林书</item>
 	<item enabled="true">t=沙漠书</item>
 	<item enabled="true">t=砂糖</item>
@@ -240,6 +257,9 @@
 	<item enabled="true">t=珊瑚宫</item>
 	<item enabled="true">t=社奉行</item>
 	<item enabled="true">t=申鹤</item>
+	<item enabled="true">t=深镜螺旋</item>
+	<item enabled="false">t=深渊</item>
+	<item enabled="true">t=深渊结算</item>
 	<item enabled="true">t=神里</item>
 	<item enabled="true">t=神瞳</item>
 	<item enabled="true">t=神之眼</item>
@@ -247,10 +267,12 @@
 	<item enabled="true">t=圣遗物</item>
 	<item enabled="true">t=拾枝者</item>
 	<item enabled="true">t=食岩之罚</item>
+	<item enabled="true">t=试作古华</item>
 	<item enabled="true">t=噬能之雷</item>
 	<item enabled="true">t=树脂</item>
 	<item enabled="true">t=水晶宴</item>
 	<item enabled="true">t=送仙典仪</item>
+	<item enabled="true">t=岁月史书</item>
 	<item enabled="false">t=碎冰</item>
 	<item enabled="true">t=汤达人</item>
 	<item enabled="true">t=堂主</item>
@@ -277,6 +299,7 @@
 	<item enabled="true">r=我是.*的狗</item>
 	<item enabled="true">t=我托马莱依拉</item>
 	<item enabled="true">r=呜呜呜呜.*好可怜啊</item>
+	<item enabled="true">t=无风之地</item>
 	<item enabled="true">t=无想</item>
 	<item enabled="true">t=五郎</item>
 	<item enabled="true">t=五香刃狭间</item>
@@ -284,6 +307,7 @@
 	<item enabled="true">t=西风骑士团</item>
 	<item enabled="true">t=西风骑士团</item>
 	<item enabled="true">t=希娜</item>
+	<item enabled="true">t=匣里龙吟</item>
 	<item enabled="true">t=香菱</item>
 	<item enabled="true">t=向着星辰与深渊</item>
 	<item enabled="true">t=宵宫</item>
@@ -293,6 +317,7 @@
 	<item enabled="true">t=心海</item>
 	<item enabled="true">t=辛焱</item>
 	<item enabled="true">t=行秋</item>
+	<item enabled="true">t=休伯利安</item>
 	<item enabled="true">t=学医救不了蒙德人</item>
 	<item enabled="true">t=迅捷之风</item>
 	<item enabled="true">t=烟绯</item>
@@ -304,6 +329,8 @@
 	<item enabled="true">t=妖狸</item>
 	<item enabled="true">t=瑶瑶</item>
 	<item enabled="true">t=椰羊</item>
+	<item enabled="true">t=野伏众</item>
+	<item enabled="true">t=叶天帝</item>
 	<item enabled="true">t=夜兰</item>
 	<item enabled="true">t=姨丈队</item>
 	<item enabled="true">t=异世相遇</item>
@@ -327,6 +354,7 @@
 	<item enabled="true">t=原激化</item>
 	<item enabled="true">t=原来你也玩</item>
 	<item enabled="true">t=原魔</item>
+	<item enabled="true">t=原胚</item>
 	<item enabled="true">t=原神</item>
 	<item enabled="true">t=原石</item>
 	<item enabled="true">t=源信</item>
@@ -336,6 +364,7 @@
 	<item enabled="true">t=增幅反应</item>
 	<item enabled="false">t=绽放</item>
 	<item enabled="true">t=长野原</item>
+	<item enabled="true">r=这招.*无用</item>
 	<item enabled="true">t=珍珠之歌</item>
 	<item enabled="true">t=真君</item>
 	<item enabled="true">t=镇守之森</item>
