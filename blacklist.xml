@@ -1,14 +1,5 @@
 <filters>
 	<item enabled="false">t=77</item>
-	<item enabled="true">t=genshin</item>
-	<item enabled="true">t=gusha</item>
-	<item enabled="true">t=jenshin</item>
-	<item enabled="true">t=mhy</item>
-	<item enabled="true">t=miHoYo</item>
-	<item enabled="true">t=mihqyq</item>
-	<item enabled="true">t=nor西妲</item>
-	<item enabled="false">t=op</item>
-	<item enabled="false">t=wetest</item>
 	<item enabled="true">t=阿贝多</item>
 	<item enabled="true">t=阿如村</item>
 	<item enabled="true">t=埃洛伊</item>
@@ -22,6 +13,7 @@
 	<item enabled="true">t=八重神子</item>
 	<item enabled="true">t=八重樱</item>
 	<item enabled="true">t=巴巴托斯</item>
+	<item enabled="true">t=巴尔泽布</item>
 	<item enabled="true">t=芭芭拉</item>
 	<item enabled="true">t=白垩之子</item>
 	<item enabled="false">t=白毛</item>
@@ -34,8 +26,10 @@
 	<item enabled="false">t=北斗</item>
 	<item enabled="true">t=北风狼</item>
 	<item enabled="true">t=奔狼领</item>
+	<item enabled="true">t=崩3</item>
 	<item enabled="true">t=崩崩小圆帽</item>
 	<item enabled="true">t=崩坏</item>
+	<item enabled="true">t=崩三</item>
 	<item enabled="true">t=冰雾花</item>
 	<item enabled="true">t=不卜庐</item>
 	<item enabled="true">t=草神</item>
@@ -54,6 +48,7 @@
 	<item enabled="true">t=赤王</item>
 	<item enabled="true">t=炽光猎兽</item>
 	<item enabled="true">t=炽鬃之狮</item>
+	<item enabled="true">t=重云</item>
 	<item enabled="true">t=锄大地</item>
 	<item enabled="true">t=传送锚点</item>
 	<item enabled="true">t=春香窑</item>
@@ -68,10 +63,10 @@
 	<item enabled="true">t=道成林</item>
 	<item enabled="true">t=稻妻</item>
 	<item enabled="true">t=德丽莎</item>
-	<item enabled="true">t=地面的生灵</item>
 	<item enabled="true">t=迪奥娜</item>
 	<item enabled="true">t=迪卢克</item>
 	<item enabled="true">t=迪希雅</item>
+	<item enabled="true">t=地面的生灵</item>
 	<item enabled="true">t=蒂玛乌斯</item>
 	<item enabled="true">t=点赞哥</item>
 	<item enabled="true">t=定轨</item>
@@ -107,15 +102,19 @@
 	<item enabled="true">t=高天之歌</item>
 	<item enabled="true">t=给我大龙虾</item>
 	<item enabled="true">t=给我倒下</item>
+	<item enabled="true">t=genshin</item>
 	<item enabled="true">t=工资回收</item>
 	<item enabled="true">t=孤云阁</item>
 	<item enabled="true">t=古华派</item>
+	<item enabled="true">t=古岩龙蜥</item>
 	<item enabled="true">t=固若金汤</item>
 	<item enabled="true">t=归终机</item>
+	<item enabled="true">t=gusha</item>
 	<item enabled="true">t=海灯节</item>
 	<item enabled="true">t=海乱鬼</item>
 	<item enabled="true">t=海祇岛</item>
 	<item enabled="true">t=寒天之钉</item>
+	<item enabled="true">t=黑暗</item>
 	<item enabled="true">t=黑暗降临</item>
 	<item enabled="true">t=胡桃</item>
 	<item enabled="true">t=护法夜叉</item>
@@ -128,6 +127,7 @@
 	<item enabled="true">t=皇女</item>
 	<item enabled="false">t=黄毛</item>
 	<item enabled="true">t=火花骑士</item>
+	<item enabled="true">t=jenshin</item>
 	<item enabled="true">t=吉法师</item>
 	<item enabled="true">t=坚定之岩</item>
 	<item enabled="true">t=箭光如我</item>
@@ -141,6 +141,7 @@
 	<item enabled="true">t=靖妖傩舞</item>
 	<item enabled="false">t=九条</item>
 	<item enabled="true">t=久岐忍</item>
+	<item enabled="true">t=拒收病婿</item>
 	<item enabled="true">t=俱收并蓄</item>
 	<item enabled="true">t=剧变反应</item>
 	<item enabled="true">t=凯瑟琳</item>
@@ -148,6 +149,7 @@
 	<item enabled="true">t=坎蒂丝</item>
 	<item enabled="true">t=坎瑞亚</item>
 	<item enabled="true">t=柯莱</item>
+	<item enabled="true">t=可丽</item>
 	<item enabled="true">t=可莉</item>
 	<item enabled="true">t=刻晴</item>
 	<item enabled="false">t=空</item>
@@ -156,6 +158,7 @@
 	<item enabled="true">t=狂风之核</item>
 	<item enabled="false">t=扩散</item>
 	<item enabled="true">t=来我家做客吧</item>
+	<item enabled="true">t=莱拉</item>
 	<item enabled="true">t=莱依拉</item>
 	<item enabled="true">t=兰那罗</item>
 	<item enabled="true">t=狼的末路</item>
@@ -163,6 +166,7 @@
 	<item enabled="true">t=浪花骑士</item>
 	<item enabled="false">t=老爷</item>
 	<item enabled="false">t=姥爷</item>
+	<item enabled="false">t=雷电</item>
 	<item enabled="true">t=雷电将军</item>
 	<item enabled="true">t=雷电芽衣</item>
 	<item enabled="true">t=雷光</item>
@@ -198,9 +202,12 @@
 	<item enabled="true">t=猫尾酒馆</item>
 	<item enabled="true">t=猫尾特调</item>
 	<item enabled="true">t=蒙德</item>
+	<item enabled="true">t=mhy</item>
 	<item enabled="true">t=米哈游</item>
 	<item enabled="true">t=米忽悠</item>
 	<item enabled="true">t=米卡</item>
+	<item enabled="true">t=mihoyo</item>
+	<item enabled="true">t=mihqyq</item>
 	<item enabled="true">t=命之座</item>
 	<item enabled="true">t=魔王武装</item>
 	<item enabled="false">t=陌生人</item>
@@ -208,6 +215,7 @@
 	<item enabled="true">t=幕府军</item>
 	<item enabled="true">t=纳nor达</item>
 	<item enabled="true">t=纳塔</item>
+	<item enabled="true">t=纳西达</item>
 	<item enabled="true">t=纳西妲</item>
 	<item enabled="true">t=奶沟鞘</item>
 	<item enabled="true">t=奶香的一刀</item>
@@ -217,7 +225,9 @@
 	<item enabled="true">t=你犯事了吗</item>
 	<item enabled="true">t=凝光</item>
 	<item enabled="true">t=凝结之冰</item>
+	<item enabled="true">t=nor西妲</item>
 	<item enabled="true">t=诺艾尔</item>
+	<item enabled="false">t=op</item>
 	<item enabled="true">t=派毛</item>
 	<item enabled="true">t=派蒙</item>
 	<item enabled="true">t=屁斜剑法</item>
@@ -230,6 +240,7 @@
 	<item enabled="true">t=契约既成</item>
 	<item enabled="true">t=契约已成</item>
 	<item enabled="true">t=千岩军</item>
+	<item enabled="true">t=前面的区域以后再来探索吧</item>
 	<item enabled="true">t=前面的蛆</item>
 	<item enabled="true">t=强能之雷</item>
 	<item enabled="false">t=琴</item>
@@ -267,6 +278,7 @@
 	<item enabled="true">t=圣遗物</item>
 	<item enabled="true">t=拾枝者</item>
 	<item enabled="true">t=食岩之罚</item>
+	<item enabled="true">r=世界.*彻底遗忘我</item>
 	<item enabled="true">t=试作古华</item>
 	<item enabled="true">t=噬能之雷</item>
 	<item enabled="true">t=树脂</item>
@@ -296,6 +308,7 @@
 	<item enabled="true">t=万叶</item>
 	<item enabled="true">t=往生堂</item>
 	<item enabled="true">t=温迪</item>
+	<item enabled="false">t=wetest</item>
 	<item enabled="true">r=我是.*的狗</item>
 	<item enabled="true">t=我托马莱依拉</item>
 	<item enabled="true">r=呜呜呜呜.*好可怜啊</item>
@@ -376,7 +389,7 @@
 	<item enabled="true">t=终末番</item>
 	<item enabled="true">t=钟离</item>
 	<item enabled="false">t=种子</item>
-	<item enabled="true">t=重云</item>
 	<item enabled="true">t=追叙之石</item>
+	<item enabled="true">t=纵享美梦</item>
 	<item enabled="true">t=祖拜尔剧场</item>
 </filters>
