@@ -35,7 +35,8 @@
 ## 致谢
 
 - [Generate XML.py](https://github.com/Mark9804/bilibili-danmaku-regex/blob/master/Generate%20XML.py)
-- [av470156723](https://www.bilibili.com/video/av470156723)
+- [【python】和python开发人员用同一套命名系统，一期视频就学会！](https://www.bilibili.com/video/av470156723)
+- 某个不愿透露姓名的朋友
 
 ## 开源协议
 
